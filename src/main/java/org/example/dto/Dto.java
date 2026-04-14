@@ -1,0 +1,8 @@
+package org.example.dto;
+
+public class Dto {
+  protected int id;
+  protected String regDate;
+  protected String updateDate;
+  protected String name;
+}
